@@ -1,0 +1,35 @@
+.carouselSlidee {
+  /*border: 2px solid red;
+  */
+  background-color: white;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+:root {
+  color: black;
+}
+
+h5 {
+  color: black;
+}
+p {
+  color: black;
+}
+
+.detailPrevious {
+  margin-top: 1rem;
+  color: white;
+  font-weight: bolder;
+  -webkit-text-stroke: 1px black; /* Stroke width and color */
+}
+
+.navbarMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
